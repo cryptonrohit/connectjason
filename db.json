@@ -1,5 +1,6 @@
 {
     "CentralStation":[
-        {"name":""}
+        {"name":"",
+        "chargerid":""}
     ]    
 }
